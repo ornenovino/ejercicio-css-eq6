@@ -1,0 +1,54 @@
+.background {
+    background-color: aqua;
+}
+
+.logo-centrado {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
+    margin-top: 0px;
+    background-color: #142840;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.subtitulo {
+    margin-top: 0px;
+    background-color: #142840;
+    color: white;
+    font-size: 20px;
+
+}
+
+.espacio {
+    padding-bottom: 40px;
+}
+
+.fondo-blanco {
+    background-color: #91caff;
+}
+
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.footer-centrado {
+    background-color: #142840;
+    text-align: center;
+    color: white;
+}
+
+.loguito {
+    width: 20px;
+}
+
+.li-indent{ 
+    margin-left: 110px;
+    list-style-type: none;
+}
